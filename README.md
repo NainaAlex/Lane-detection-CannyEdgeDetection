@@ -2,7 +2,7 @@
 A basic project that demonstrates how Canny Edge Detection can be used to find straight lines in an image or video, as in this case.
 The images below are just 1 frame from the video
 ## Original Image
-<img width="523" alt="Capture_orig" src="https://user-images.githubusercontent.com/67065986/111970872-c7f78080-8b21-11eb-948d-46ec37e9edc8.PNG">
+<img width="923" alt="Capture_orig" src="https://user-images.githubusercontent.com/67065986/111970872-c7f78080-8b21-11eb-948d-46ec37e9edc8.PNG">
 
 ## GrayScaled Image
 <img width="959" alt="Capture_grayscale" src="https://user-images.githubusercontent.com/67065986/111970963-df366e00-8b21-11eb-9494-dabe1e9df9cc.PNG">
